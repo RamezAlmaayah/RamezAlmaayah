@@ -1,94 +1,18 @@
+# 💫 About Me:
+🔭 I'm currently working on **building modern, scalable full-stack web applications using React, TypeScript, ASP.NET Core, and PostgreSQL.**<br><br>👯 I'm looking to collaborate on **open-source projects, full-stack development, and innovative software solutions.**<br><br>🤝 I'm looking for help with **advanced system architecture, cloud deployment, DevOps, and AI-powered applications.**<br><br>🌱 I'm currently learning **advanced React, TypeScript, ASP.NET Core, Docker, CI/CD, and software architecture best practices.**<br><br>💬 Ask me about **React.js, C#, ASP.NET Core, REST APIs, SQL databases, authentication, and Agile/Scrum.**<br><br>⚡ Fun fact: **I enjoy transforming complex requirements into clean, user-friendly applications — from planning and UI/UX design to full-stack implementation.**
 
-<div align="center">
 
-# Hi, I'm Ramez Ahmad 👋
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1c2hB2iXnL/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ramez-al-maayah-b076ba425/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/www.pinterest.com/EngineerRamez11) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://ar.quora.com/RamezAlmaayeh11) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@ramez._.11?_r=1&_t=ZS-9AhGW5RNE6H) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramezmayaa@gmail.com) 
 
-### Full-Stack Developer | Software Engineer
-
-*Building responsive, secure, and thoughtfully designed web applications.*
-
-📍 Madaba, Jordan
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A2342?style=for-the-badge&logo=netlify&logoColor=white)](https://ramez-dev-portfolio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramez-al-maayah-b076ba425/)
-[![Email](https://img.shields.io/badge/Email-73858C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramezmayaa@gmail.com)
-
-</div>
-
-## About Me
-
-I'm a Software Engineering graduate from **Middle East University (2026)** and a Full-Stack Developer focused on building practical, database-backed applications. I enjoy turning software requirements into intuitive interfaces, reliable APIs, and maintainable systems.
-
-- 🔭 Working on full-stack web applications with **React, TypeScript, ASP.NET Core, and PostgreSQL**.
-- 🤝 Open to collaborating on full-stack and open-source projects.
-- 🌱 Developing my knowledge of **software architecture, Docker, CI/CD, and AI-enabled systems**.
-- 💬 Ask me about **React, C#, ASP.NET Core, REST APIs, SQL, and Agile/Scrum**.
-
-## Tech Stack
-
-**Languages**  
-C# · JavaScript · TypeScript · SQL · Python · PHP
-
-**Frontend**  
-React · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Razor · Vite
-
-**Backend & APIs**  
-ASP.NET Core MVC / Web API · Node.js · Entity Framework Core · LINQ · REST APIs
-
-**Databases & Cloud**  
-SQL Server · PostgreSQL · Supabase · MySQL · MongoDB
-
-**Security, Architecture & Tools**  
-JWT · ASP.NET Core Identity · RBAC · Supabase RLS · Git · GitHub · Postman · Docker · GitHub Actions
-
-## Featured Projects
-
-### 🗂️ Planora — Project Management System
-
-A graduation project that supports **Scrum workflows, sprint backlogs, Kanban boards, role-based access, and QA Pass/Fail review**.
-
-**Stack:** C# · ASP.NET Core MVC · EF Core · SQL Server · Razor · JavaScript
-
-[Live Demo](https://planora.dynv6.net/) · [GitHub Repository](https://github.com/RamezAlmaayah/Planora-Project-Management-System)
-
-### 🧭 Unseen Jo — Tourism Discovery Platform
-
-A responsive tourism discovery web application featuring **Surprise Me recommendations**, interactive maps, location-based exploration, and secure user access with Supabase.
-
-**Stack:** React · JavaScript · Tailwind CSS · Supabase · PostgreSQL · React Leaflet · Vite
-
-[View Case Study](https://ramez-dev-portfolio.netlify.app/projects/unseen-jo)
-
-### 🌱 CaeloTerra — Climate-Smart Crop Rotation (In Development)
-
-A decision-support application concept and architecture using **NASA POWER** and **GPM IMERG** data to inform explainable multi-season crop rotation recommendations.
-
-**Stack:** React · ASP.NET Core Web API · Python · REST APIs
-
-[View Case Study](https://ramez-dev-portfolio.netlify.app/projects/caeloterra)
-
-### 💼 Personal Portfolio
-
-A responsive portfolio featuring real project screenshots, interactive galleries, dark/light themes, and accessible animations.
-
-**Stack:** React · TypeScript · Vite · Tailwind CSS
-
-[Live Site](https://ramez-dev-portfolio.netlify.app) · [Source Code](https://github.com/RamezAlmaayah/ramez-portfolio)
-
-## GitHub Activity
-
-<div align="center">
-
-![GitHub statistics](https://github-readme-stats.vercel.app/api?username=RamezAlmaayah&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Most used languages in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=RamezAlmaayah&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=RamezAlmaayah&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=RamezAlmaayah&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RamezAlmaayah&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=RamezAlmaayah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-
-**Explore my projects:** [ramez-dev-portfolio.netlify.app](https://ramez-dev-portfolio.netlify.app)
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
