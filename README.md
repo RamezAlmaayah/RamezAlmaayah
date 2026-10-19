@@ -152,7 +152,7 @@ My responsive personal portfolio featuring interactive project galleries, real a
 
 ### 👀 Profile Views
 
-![Visitors](https://komarev.com/ghpvc/?username=RamezAlmaayah&color=0A2342&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=RamezAlmaayah&color=blue)
 
 ### 🌐 Let's Connect
 
