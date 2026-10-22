@@ -46,7 +46,7 @@ Building secure, responsive, and user-friendly web applications.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ramez-al-maayah-b076ba425/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/RamezAlmaayah">
@@ -54,11 +54,11 @@ Building secure, responsive, and user-friendly web applications.
 </a>
 &nbsp;&nbsp;
 <a href="https://ramez-dev-portfolio.netlify.app">
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="45" height="45" alt="Portfolio"/>
+  <img src="https://skillicons.dev/icons?i=netlify&theme=dark" height="45" alt="Portfolio"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:ramezmayaa@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/>
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45" alt="Email"/>
 </a>
 
 <br/>
@@ -124,19 +124,19 @@ Building secure, responsive, and user-friendly web applications.
 <div align="center">
 
 <a href="https://planora.dynv6.net/">
-  <img src="https://img.icons8.com/color/48/task.png" height="48" alt="Planora"/>
+  <img src="https://img.icons8.com/color/48/task.png" height="45" alt="Planora"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://ramez-dev-portfolio.netlify.app/projects/unseen-jo">
-  <img src="https://img.icons8.com/color/48/worldwide-location.png" height="48" alt="Unseen Jo"/>
+  <img src="https://img.icons8.com/color/48/worldwide-location.png" height="45" alt="Unseen Jo"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://ramez-dev-portfolio.netlify.app/projects/caeloterra">
-  <img src="https://img.icons8.com/color/48/sprout.png" height="48" alt="CaeloTerra"/>
+  <img src="https://img.icons8.com/color/48/sprout.png" height="45" alt="CaeloTerra"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://ramez-dev-portfolio.netlify.app">
-  <img src="https://img.icons8.com/color/48/source-code.png" height="48" alt="Portfolio"/>
+  <img src="https://img.icons8.com/color/48/source-code.png" height="45" alt="Portfolio"/>
 </a>
 
 <br/>
@@ -144,6 +144,8 @@ Building secure, responsive, and user-friendly web applications.
 **Planora · Unseen Jo · CaeloTerra · Portfolio**
 
 </div>
+
+---
 
 ### 🗂️ Planora — Project Management System
 
@@ -153,8 +155,23 @@ A project management platform supporting Scrum workflows, Sprint Backlogs, Kanba
 
 **Technologies:** C#, ASP.NET Core MVC, EF Core, SQL Server, Razor, JavaScript, AJAX.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0A2342?style=flat-square&logo=googlechrome&logoColor=white)](https://planora.dynv6.net/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RamezAlmaayah/Planora-Project-Management-System)
+<div align="center">
+
+<a href="https://planora.dynv6.net/">
+  <img src="https://img.icons8.com/color/48/domain.png" height="40" alt="Planora Live Demo"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/RamezAlmaayah/Planora-Project-Management-System">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="Planora Source Code"/>
+</a>
+
+<br/>
+
+**Live Demo · Source Code**
+
+</div>
+
+---
 
 ### 🧭 Unseen Jo — Tourism Discovery Platform
 
@@ -162,7 +179,19 @@ A responsive tourism discovery application featuring the **Surprise Me** recomme
 
 **Technologies:** React, JavaScript, Tailwind CSS, Supabase, PostgreSQL, React Leaflet, OpenStreetMap, Vite.
 
-[![Case Study](https://img.shields.io/badge/View_Case_Study-0A2342?style=flat-square&logo=googlechrome&logoColor=white)](https://ramez-dev-portfolio.netlify.app/projects/unseen-jo)
+<div align="center">
+
+<a href="https://ramez-dev-portfolio.netlify.app/projects/unseen-jo">
+  <img src="https://img.icons8.com/color/48/domain.png" height="40" alt="Unseen Jo Case Study"/>
+</a>
+
+<br/>
+
+**View Case Study**
+
+</div>
+
+---
 
 ### 🌱 CaeloTerra — Climate-Smart Agriculture
 
@@ -172,7 +201,19 @@ A climate-informed crop rotation decision-support project designed to use NASA P
 
 **Technologies:** React, ASP.NET Core Web API, Python, SQL, REST APIs.
 
-[![Case Study](https://img.shields.io/badge/View_Case_Study-0A2342?style=flat-square&logo=googlechrome&logoColor=white)](https://ramez-dev-portfolio.netlify.app/projects/caeloterra)
+<div align="center">
+
+<a href="https://ramez-dev-portfolio.netlify.app/projects/caeloterra">
+  <img src="https://img.icons8.com/color/48/domain.png" height="40" alt="CaeloTerra Case Study"/>
+</a>
+
+<br/>
+
+**View Case Study**
+
+</div>
+
+---
 
 ### 💼 Personal Developer Portfolio
 
@@ -180,8 +221,21 @@ My responsive personal portfolio featuring interactive project galleries, real a
 
 **Technologies:** React, TypeScript, Tailwind CSS, Vite.
 
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://ramez-dev-portfolio.netlify.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RamezAlmaayah/ramez-portfolio)
+<div align="center">
+
+<a href="https://ramez-dev-portfolio.netlify.app">
+  <img src="https://img.icons8.com/color/48/domain.png" height="40" alt="Live Portfolio"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/RamezAlmaayah/ramez-portfolio">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="Portfolio Source Code"/>
+</a>
+
+<br/>
+
+**Live Portfolio · Source Code**
+
+</div>
 
 ---
 
@@ -208,11 +262,11 @@ My responsive personal portfolio featuring interactive project galleries, real a
 ### 🌐 Let's Connect
 
 <a href="https://ramez-dev-portfolio.netlify.app">
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="45" height="45" alt="Portfolio"/>
+  <img src="https://skillicons.dev/icons?i=netlify&theme=dark" height="45" alt="Portfolio"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ramez-al-maayah-b076ba425/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/RamezAlmaayah">
@@ -220,7 +274,7 @@ My responsive personal portfolio featuring interactive project galleries, real a
 </a>
 &nbsp;&nbsp;
 <a href="mailto:ramezmayaa@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/>
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45" alt="Email"/>
 </a>
 
 <br/>
