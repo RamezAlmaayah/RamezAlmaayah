@@ -1,6 +1,12 @@
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1100&color=58A6FF&center=true&vCenter=true&width=600&height=65&lines=Hi%2C+I'm+Ramez+Ahmad;Full-Stack+Developer;Software+Engineer;Turning+Ideas+Into+Real+Solutions)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
 # 👋 Hi, I'm Ramez Ahmad ALMAAYE'H
 
 ### 💻 Full-Stack Developer | Software Engineer
