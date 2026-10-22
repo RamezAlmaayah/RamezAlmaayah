@@ -43,13 +43,31 @@ Building secure, responsive, and user-friendly web applications.
 
 # 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramez-al-maayah-b076ba425/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/RamezAlmaayah)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230A2342.svg?logo=netlify&logoColor=white)](https://ramez-dev-portfolio.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramezmayaa@gmail.com)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ramez-al-maayah-b076ba425/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/RamezAlmaayah">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://ramez-dev-portfolio.netlify.app">
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="45" height="45" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:ramezmayaa@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/>
+</a>
+
+<br/>
+
+**LinkedIn · GitHub · Portfolio · Email**
+
+</div>
 
 ---
-
 
 # 💻 Tech Stack
 
@@ -101,8 +119,31 @@ Building secure, responsive, and user-friendly web applications.
 
 ---
 
-
 # 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://planora.dynv6.net/">
+  <img src="https://img.icons8.com/color/48/task.png" height="48" alt="Planora"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://ramez-dev-portfolio.netlify.app/projects/unseen-jo">
+  <img src="https://img.icons8.com/color/48/worldwide-location.png" height="48" alt="Unseen Jo"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://ramez-dev-portfolio.netlify.app/projects/caeloterra">
+  <img src="https://img.icons8.com/color/48/sprout.png" height="48" alt="CaeloTerra"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://ramez-dev-portfolio.netlify.app">
+  <img src="https://img.icons8.com/color/48/source-code.png" height="48" alt="Portfolio"/>
+</a>
+
+<br/>
+
+**Planora · Unseen Jo · CaeloTerra · Portfolio**
+
+</div>
 
 ### 🗂️ Planora — Project Management System
 
@@ -166,9 +207,24 @@ My responsive personal portfolio featuring interactive project galleries, real a
 
 ### 🌐 Let's Connect
 
-[Portfolio](https://ramez-dev-portfolio.netlify.app) •
-[LinkedIn](https://www.linkedin.com/in/ramez-al-maayah-b076ba425/) •
-[GitHub](https://github.com/RamezAlmaayah) •
-[Email](mailto:ramezmayaa@gmail.com)
+<a href="https://ramez-dev-portfolio.netlify.app">
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="45" height="45" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ramez-al-maayah-b076ba425/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/RamezAlmaayah">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:ramezmayaa@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/>
+</a>
+
+<br/>
+
+**Portfolio · LinkedIn · GitHub · Email**
 
 </div>
