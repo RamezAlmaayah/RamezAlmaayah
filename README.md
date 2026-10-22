@@ -15,9 +15,15 @@ Building secure, responsive, and user-friendly web applications.
 
 📍 Madaba, Jordan 🇯🇴
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A2342?style=for-the-badge&logo=netlify&logoColor=white)](https://ramez-dev-portfolio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramez-al-maayah-b076ba425/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramezmayaa@gmail.com)
+<a href="https://ramez-dev-portfolio.netlify.app">
+  <img src="https://skillicons.dev/icons?i=netlify&theme=dark" height="45" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/ramez-al-maayah-b076ba425/">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45" alt="LinkedIn"/>
+</a>
+<a href="mailto:ramezmayaa@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45" alt="Email"/>
+</a>
 
 </div>
 
