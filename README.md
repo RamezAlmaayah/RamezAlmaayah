@@ -50,53 +50,57 @@ Building secure, responsive, and user-friendly web applications.
 
 ---
 
+
 # 💻 Tech Stack
+
+<div align="center">
 
 ### 👨‍💻 Programming Languages
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,js,ts,python,php&theme=dark" alt="C#, JavaScript, TypeScript, Python, PHP" />
+
+**C# · JavaScript · TypeScript · Python · PHP · SQL**
+
+---
 
 ### 🎨 Frontend Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite&theme=dark" alt="React, HTML5, CSS3, Tailwind CSS, Bootstrap, Vite" />
+
+**React.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Vite**
+
+---
 
 ### ⚙️ Backend Development
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-0A2342?style=for-the-badge&logo=swagger&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs&theme=dark" alt=".NET and Node.js" />
+
+**ASP.NET Core MVC · ASP.NET Core Web API · Node.js**
+
+**Entity Framework Core · LINQ · REST APIs · JWT Authentication**
+
+---
 
 ### 🗄️ Databases & Cloud
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Supabase" />
+
+**SQL Server · PostgreSQL · MySQL · MongoDB · Supabase**
+
+---
 
 ### 🛠️ Tools & DevOps
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,vscode,figma&theme=dark" alt="Git, GitHub, Docker, GitHub Actions, Postman, VS Code, Figma" />
+
+**Git · GitHub · Docker · GitHub Actions · Postman · VS Code · Figma**
+
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
+
+</div>
 
 ---
+
 
 # 🚀 Featured Projects
 
