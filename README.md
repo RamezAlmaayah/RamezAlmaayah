@@ -179,7 +179,15 @@ I'm a **Software Engineering graduate** who builds secure, responsive full-stack
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RamezAlmaayah&amp;bg_color=0B1220&amp;color=8FA9CE&amp;line=14B8A6&amp;point=60A5FA&amp;area=true&amp;hide_border=true&amp;radius=10" width="98%" alt="GitHub contribution activity"/>
+
+<a href="https://github.com/RamezAlmaayah">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RamezAlmaayah&amp;theme=github-compact"
+    width="95%"
+    alt="GitHub Contribution Activity Graph"
+  />
+</a>
+
 
 <img src="https://streak-stats.demolab.com/?user=RamezAlmaayah&amp;theme=tokyonight&amp;hide_border=true&amp;background=0B1220" height="165" alt="GitHub streak"/>
 
