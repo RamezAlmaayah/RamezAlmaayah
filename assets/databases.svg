@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="304" height="88" viewBox="0 0 304 88" role="img">
+<style>.float{animation:float 3.1s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}@media(prefers-reduced-motion:reduce){.float{animation:none}}</style>
+<g transform="translate(8 14)"><g class="float" style="animation-delay:0.0s"><rect x="0" y="0" width="56" height="56" rx="11" fill="#336791"/><text x="28" y="35" font-size="23" font-family="Arial,Helvetica,sans-serif" text-anchor="middle" font-weight="bold" fill="white">PG</text></g></g>
+<g transform="translate(80 14)"><g class="float" style="animation-delay:-0.37s"><rect x="0" y="0" width="56" height="56" rx="11" fill="#00758F"/><text x="28" y="35" font-size="23" font-family="Arial,Helvetica,sans-serif" text-anchor="middle" font-weight="bold" fill="white">My</text></g></g>
+<g transform="translate(152 14)"><g class="float" style="animation-delay:-0.74s"><rect x="0" y="0" width="56" height="56" rx="11" fill="#166534"/><path d="M28 8 C20 17 15 26 19 36 C22 43 26 47 28 49 C38 41 42 27 28 8Z" fill="#85DE91"/><path d="M28 11V51" stroke="#E0FFE8" stroke-width="2"/></g></g>
+<g transform="translate(224 14)"><g class="float" style="animation-delay:-1.11s"><rect x="0" y="0" width="56" height="56" rx="11" fill="#168C64"/><path d="M32 7 13 34H28L23 49 45 22H30Z" fill="#D2FFE1"/></g></g>
+</svg>
