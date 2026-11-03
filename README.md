@@ -14,7 +14,8 @@
 
 <br/>
 
-** 🤖 · Open to Junior Development Opportunities**
+**🤖 Amman, Jordan 🇯🇴 · Open to Junior Development Opportunities**
+
 
 </div>
 
