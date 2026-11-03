@@ -171,27 +171,36 @@ I'm a **Software Engineering graduate** who builds secure, responsive full-stack
 
 ---
 
-## 05 / ENGINEERING ACTIVITY
+
+<h2>05 / ENGINEERING ACTIVITY</h2>
 
 <div align="center">
 
-<a href="https://github.com/RamezAlmaayah?tab=repositories"><img src="assets/github.svg" width="64" height="78" alt="All repositories" title="All repositories"/></a>
-
-<br/>
-
-
-<a href="https://github.com/RamezAlmaayah">
+<a href="https://github.com/RamezAlmaayah?tab=overview">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RamezAlmaayah&amp;theme=github-compact"
-    width="95%"
-    alt="GitHub Contribution Activity Graph"
+    src="https://skillicons.dev/icons?i=github&theme=dark"
+    width="52"
+    height="52"
+    alt="GitHub Profile"
   />
 </a>
 
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=RamezAlmaayah&amp;theme=tokyonight&amp;hide_border=true&amp;background=0B1220" height="165" alt="GitHub streak"/>
+<img
+  src="https://streak-stats.demolab.com/?user=RamezAlmaayah&theme=tokyonight&hide_border=true&background=0B1220"
+  height="165"
+  alt="GitHub Streak Statistics"
+/>
+
+<br/><br/>
+
+<a href="https://github.com/RamezAlmaayah?tab=overview">
+  <strong>Explore My GitHub Contributions</strong>
+</a>
 
 </div>
+
 
 ---
 
