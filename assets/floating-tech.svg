@@ -1,94 +1,145 @@
 
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="520" height="110"
-     viewBox="0 0 520 110">
+from pathlib import Path
+from PIL import Image, ImageDraw, ImageFont
+import math
 
-  <style>
-    .float {
-      animation: floating 3.5s ease-in-out infinite;
-      transform-box: fill-box;
-      transform-origin: center;
-    }
+OUTPUT = Path("assets/icons")
+OUTPUT.mkdir(parents=True, exist_ok=True)
 
-    .one   { animation-delay: 0s; }
-    .two   { animation-delay: -0.5s; }
-    .three { animation-delay: -1s; }
-    .four  { animation-delay: -1.5s; }
-    .five  { animation-delay: -2s; }
-    .six   { animation-delay: -2.5s; }
+# Icon name: (symbol, background color, text color)
+ICONS = {
+    "cs": ("C#", "#512BD4", "#FFFFFF"),
+    "javascript": ("JS", "#F7DF1E", "#111111"),
+    "typescript": ("TS", "#3178C6", "#FFFFFF"),
 
-    @keyframes floating {
-      0%, 100% {
-        transform: translateY(0px);
-      }
-      50% {
-        transform: translateY(-10px);
-      }
-    }
+    "react": ("R", "#17354A", "#61DAFB"),
+    "html": ("H5", "#E34F26", "#FFFFFF"),
+    "css": ("C3", "#1572B6", "#FFFFFF"),
+    "tailwind": ("TW", "#0891B2", "#FFFFFF"),
+    "bootstrap": ("B", "#7952B3", "#FFFFFF"),
+    "vite": ("V", "#646CFF", "#FFFFFF"),
 
-    @media (prefers-reduced-motion: reduce) {
-      .float { animation: none; }
-    }
+    "dotnet": (".NET", "#512BD4", "#FFFFFF"),
+    "node": ("N", "#43853D", "#FFFFFF"),
+    "express": ("EX", "#252D3B", "#FFFFFF"),
 
-    .label {
-      font-family: Arial, sans-serif;
-      font-size: 18px;
-      font-weight: 700;
-      fill: white;
-      text-anchor: middle;
-    }
-  </style>
+    "postgres": ("PG", "#336791", "#FFFFFF"),
+    "mysql": ("MY", "#00758F", "#FFFFFF"),
+    "mongodb": ("M", "#166534", "#FFFFFF"),
+    "supabase": ("S", "#148F64", "#FFFFFF"),
 
-  <g class="float one">
-    <rect x="30" y="32" width="58" height="58"
-          rx="12" fill="#512BD4"/>
-    <text x="59" y="68" class="label">C#</text>
-  </g>
+    "git": ("G", "#F05032", "#FFFFFF"),
+    "github": ("GH", "#24292F", "#FFFFFF"),
+    "postman": ("P", "#FF6C37", "#FFFFFF"),
+    "vscode": ("VS", "#007ACC", "#FFFFFF"),
 
-  <g class="float two">
-    <rect x="110" y="32" width="58" height="58"
-          rx="12" fill="#F7DF1E"/>
-    <text x="139" y="68" class="label"
-          fill="#111111" style="fill:#111111">JS</text>
-  </g>
+    "web": ("WEB", "#0F766E", "#FFFFFF"),
+    "netlify": ("N", "#00AD9F", "#FFFFFF"),
+    "linkedin": ("in", "#0A66C2", "#FFFFFF"),
+    "email": ("@", "#EA4335", "#FFFFFF"),
+    "resume": ("PDF", "#B91C1C", "#FFFFFF"),
+}
 
-  <g class="float three">
-    <rect x="190" y="32" width="58" height="58"
-          rx="12" fill="#3178C6"/>
-    <text x="219" y="68" class="label">TS</text>
-  </g>
+CANVAS_W = 72
+CANVAS_H = 88
+TILE_SIZE = 58
+FRAMES = 24
+DURATION = 75  # milliseconds per frame
 
-  <g class="float four">
-    <rect x="270" y="32" width="58" height="58"
-          rx="12" fill="#142C47"
-          stroke="#61DAFB" stroke-width="2"/>
-    <circle cx="299" cy="61" r="4" fill="#61DAFB"/>
-    <ellipse cx="299" cy="61" rx="22" ry="8"
-             fill="none" stroke="#61DAFB"
-             stroke-width="2"/>
-    <ellipse cx="299" cy="61" rx="22" ry="8"
-             fill="none" stroke="#61DAFB"
-             stroke-width="2"
-             transform="rotate(60 299 61)"/>
-    <ellipse cx="299" cy="61" rx="22" ry="8"
-             fill="none" stroke="#61DAFB"
-             stroke-width="2"
-             transform="rotate(120 299 61)"/>
-  </g>
+def load_font(size):
+    candidates = [
+        "C:/Windows/Fonts/arialbd.ttf",
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+        "/usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf",
+    ]
 
-  <g class="float five">
-    <rect x="350" y="32" width="58" height="58"
-          rx="12" fill="#512BD4"/>
-    <text x="379" y="68"
-          class="label" font-size="15">.NET</text>
-  </g>
+    for path in candidates:
+        if Path(path).exists():
+            return ImageFont.truetype(path, size)
 
-  <g class="float six">
-    <rect x="430" y="32" width="58" height="58"
-          rx="12" fill="#092E20"
-          stroke="#10B981" stroke-width="2"/>
-    <text x="459" y="68" class="label"
-          font-size="14">DB</text>
-  </g>
+    return ImageFont.load_default()
 
-</svg>
+def generate_icon(name, symbol, bg, fg, index):
+    frames = []
+
+    # Different phase for every icon
+    phase = index * 0.65
+
+    for frame_index in range(FRAMES):
+        image = Image.new(
+            "RGBA",
+            (CANVAS_W, CANVAS_H),
+            (0, 0, 0, 0)
+        )
+
+        draw = ImageDraw.Draw(image)
+
+        t = 2 * math.pi * frame_index / FRAMES
+
+        # Smooth vertical floating motion
+        offset = math.sin(t + phase) * 6
+
+        x = (CANVAS_W - TILE_SIZE) // 2
+        y = int(15 + offset)
+
+        # Soft shadow
+        draw.rounded_rectangle(
+            [x + 2, y + 5, x + TILE_SIZE + 2, y + TILE_SIZE + 5],
+            radius=13,
+            fill=(0, 0, 0, 65)
+        )
+
+        # Square icon tile
+        draw.rounded_rectangle(
+            [x, y, x + TILE_SIZE, y + TILE_SIZE],
+            radius=12,
+            fill=bg,
+            outline="#31465F",
+            width=1
+        )
+
+        # Small highlight
+        draw.line(
+            [(x + 12, y + 8), (x + TILE_SIZE - 12, y + 8)],
+            fill=(255, 255, 255, 65),
+            width=2
+        )
+
+        font_size = 13 if len(symbol) >= 4 else 19
+        font = load_font(font_size)
+
+        box = draw.textbbox((0, 0), symbol, font=font)
+        text_w = box[2] - box[0]
+        text_h = box[3] - box[1]
+
+        text_x = x + (TILE_SIZE - text_w) / 2
+        text_y = y + (TILE_SIZE - text_h) / 2 - box[1]
+
+        draw.text(
+            (text_x, text_y),
+            symbol,
+            font=font,
+            fill=fg
+        )
+
+        frames.append(image)
+
+    # Save as animated GIF
+    output_path = OUTPUT / f"{name}.gif"
+
+    frames[0].save(
+        output_path,
+        save_all=True,
+        append_images=frames[1:],
+        duration=DURATION,
+        loop=0,
+        disposal=2,
+        optimize=False
+    )
+
+    print(f"Created: {output_path}")
+
+for index, (name, values) in enumerate(ICONS.items()):
+    generate_icon(name, *values, index)
+
+print(f"\nDone! Created {len(ICONS)} animated GIF icons.")
