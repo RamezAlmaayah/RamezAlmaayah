@@ -28,7 +28,7 @@
 ├───────────────────────────────────────────────────────┤
 │  Name       : Ramez Ahmad ALMAAYE'H                   │
 │  Role       : Full-Stack Developer                    │
-│  Background : B.Sc. Software Engineering             │
+│  Background : B.Sc. Software Engineering              │
 │  Location   : Amman, Jordan                           │
 │  Focus      : React / ASP.NET Core / Node.js          │
 │  Interest   : Architecture / AI Engineering           │
