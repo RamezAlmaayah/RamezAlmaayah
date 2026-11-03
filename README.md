@@ -20,24 +20,61 @@
 
 ---
 
-## 01 / THE DEVELOPER BEHIND THE CODE
 
-```text
-┌───────────────────────────────────────────────────────┐
-│  RAMEZ.DEV                                            │
-├───────────────────────────────────────────────────────┤
-│  Name       : Ramez Ahmad ALMAAYE'H                   │
-│  Role       : Full-Stack Developer                    │
-│  Background : B.Sc. Software Engineering              │
-│  Location   : Amman, Jordan                           │
-│  Focus      : React / ASP.NET Core / Node.js          │
-│  Interest   : Architecture / AI Engineering           │
-└───────────────────────────────────────────────────────┘
-```
+<h2>01 / THE DEVELOPER BEHIND THE CODE</h2>
 
-I'm a **Software Engineering graduate** who builds secure, responsive full-stack web applications. My experience includes two development internships, leading a four-member team, building REST APIs, implementing authentication, and deploying software.
+<table>
+<tr>
+<td width="50%" valign="middle">
 
-**My approach:** `Understand` → `Design` → `Build` → `Test` → `Deploy` → `Improve`
+<pre>
+RAMEZ.DEV
+──────────────────────────────────
+Name       : Ramez Ahmad ALMAAYE'H
+Role       : Full-Stack Developer
+Background : B.Sc. Software Engineering
+Location   : Amman, Jordan
+Focus      : React / ASP.NET Core / Node.js
+Interest   : Architecture / AI Engineering
+</pre>
+
+</td>
+
+<td width="50%" valign="middle" align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2400&pause=1200&color=14B8A6&center=true&vCenter=true&width=410&height=100&lines=Turning+ideas+into+real+software.;Building+secure+full-stack+applications.;Clean+code.+Thoughtful+design.;Learning+AI+Engineering.;Ready+for+the+next+challenge."
+  alt="Animated typing text"
+/>
+
+</td>
+</tr>
+</table>
+
+<p>
+I'm a <strong>Software Engineering graduate</strong> passionate
+about building secure, scalable, and user-friendly web applications.
+</p>
+
+<p>
+My experience includes <strong>two full-stack development internships</strong>,
+leading a four-member project team, developing REST APIs,
+implementing authentication, and deploying complete applications.
+</p>
+
+<p>
+<strong>My development approach:</strong>
+</p>
+
+<p align="center">
+Understand → Design → Build → Test → Deploy → Improve
+</p>
+
+<blockquote>
+Great software is not just about writing code.
+It's about solving the right problem with a solution people can actually use.
+</blockquote>
+
 
 ---
 
