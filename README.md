@@ -175,45 +175,33 @@ An in-development decision-support concept exploring climate-informed agricultur
 
 ---
 
-## 03 / MY TECHNICAL TOOLKIT
+
+<h2>03 / MY TECHNICAL TOOLKIT</h2>
 
 <div align="center">
 
-### PROGRAMMING LANGUAGES
+<h3>Programming Languages</h3>
+<img src="https://skillicons.dev/icons?i=cs,js,ts&theme=dark" height="48" alt="C#, JavaScript, TypeScript"/>
 
-<img src="https://skillicons.dev/icons?i=cs,js,ts&theme=dark" alt="C#, JavaScript, TypeScript"/>
+<br/><br/>
 
-`C#` `JavaScript` `TypeScript` `SQL`
+<h3>Frontend Development</h3>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite&theme=dark" height="48" alt="React, HTML, CSS, Tailwind, Bootstrap, Vite"/>
 
-### FRONTEND DEVELOPMENT
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite&theme=dark" alt="Frontend technologies"/>
+<h3>Backend Development</h3>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&theme=dark" height="48" alt=".NET, Node.js, Express"/>
 
-`React.js` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Vite` `Razor` `AJAX`
+<br/><br/>
 
-### BACKEND DEVELOPMENT
+<h3>Databases & Cloud</h3>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark" height="48" alt="PostgreSQL, MySQL, MongoDB, Supabase"/>
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&theme=dark" alt="Backend technologies"/>
+<br/><br/>
 
-`ASP.NET Core MVC` `ASP.NET Core Web API` `Node.js` `Express.js`
-
-`Entity Framework Core` `LINQ` `REST APIs` `JWT`
-
-### DATABASES
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark" alt="Databases"/>
-
-`SQL Server` `PostgreSQL` `MySQL` `MongoDB` `Supabase`
-
-### ENGINEERING TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Engineering tools"/>
-
-`Git` `GitHub` `Postman` `VS Code`
-
-`OOP` `SOLID` `Clean Architecture` `RBAC` `Agile / Scrum`
-
-`Unit Testing` `Integration Testing` `API Testing`
+<h3>Tools & Development</h3>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" height="48" alt="Git, GitHub, Postman, VS Code"/>
 
 </div>
 
