@@ -1,43 +1,23 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:07111F,45:17365D,100:14B8A6&text=RAMEZ%20AHMAD&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=17&descAlignY=59&animation=fadeIn" width="100%" alt="Ramez Ahmad — Full-Stack Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111F,45:17365D,100:14B8A6&text=RAMEZ%20AHMAD&fontSize=54&fontColor=FFFFFF&fontAlignY=37&desc=FULL-STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=17&descAlignY=59&animation=fadeIn" width="100%" alt="Ramez Ahmad — Full-Stack Developer"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1100&color=14B8A6&center=true&vCenter=true&width=720&height=55&lines=Turning+ideas+into+real+software.;Building+from+frontend+to+backend.;Clean+code.+Thoughtful+design.;Design.+Develop.+Test.+Deploy." alt="Animated introduction"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=14B8A6&center=true&vCenter=true&width=720&height=55&lines=Turning+ideas+into+real+software.;Building+from+frontend+to+backend.;Clean+code.+Thoughtful+design.;Design.+Develop.+Test.+Deploy." alt="Animated introduction"/>
+<a href="https://ramez-dev-portfolio.netlify.app/"><img src="assets/icons/netlify.gif" width="54" height="64" alt="Portfolio" title="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/ramez-al-maayah-b076ba425/"><img src="assets/icons/linkedin.gif" width="54" height="64" alt="LinkedIn" title="LinkedIn"/></a>
+<a href="https://github.com/RamezAlmaayah"><img src="assets/icons/github.gif" width="54" height="64" alt="GitHub" title="GitHub"/></a>
+<a href="mailto:ramezmayaa@gmail.com"><img src="assets/icons/email.gif" width="54" height="64" alt="Email" title="Email"/></a>
+<a href="https://ramez-dev-portfolio.netlify.app/ramez-ahmad-resume.pdf"><img src="assets/icons/resume.gif" width="54" height="64" alt="Resume PDF" title="Resume PDF"/></a>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/RamezAlmaayah/RamezAlmaayah/main/assets/floating-tech.svg" width="520" alt="Animated floating developer technology icons"/>
+**📍 Amman, Jordan 🇯🇴**
 
-<br/><br/>
-
-<a href="https://ramez-dev-portfolio.netlify.app/">
-  <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="46" height="46" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ramez-al-maayah-b076ba425/">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="46" height="46" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/RamezAlmaayah">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="46" height="46" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="mailto:ramezmayaa@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="46" height="46" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://ramez-dev-portfolio.netlify.app/ramez-ahmad-resume.pdf">
-  <img src="https://img.icons8.com/color/48/pdf.png" width="46" height="46" alt="View CV"/>
-</a>
-
-<br/><br/>
-
-📍 **Amman, Jordan 🇯🇴**
-
-🟢 **Open to Junior Full-Stack & Software Engineering Opportunities**
+**🟢 Open to Junior Full-Stack & Software Engineering Opportunities**
 
 </div>
 
@@ -46,26 +26,26 @@
 ## 01 / THE DEVELOPER BEHIND THE CODE
 
 ```text
-┌────────────────────────────────────────────────────────┐
-│  RAMEZ.DEV                                             │
-├────────────────────────────────────────────────────────┤
-│  Name       : Ramez Ahmad ALMAAYE'H                    │
-│  Role       : Full-Stack Developer                     │
-│  Background : B.Sc. Software Engineering              │
-│  Location   : Amman, Jordan                            │
-│  Focus      : React / ASP.NET Core / Node.js           │
-│  Interest   : Software Architecture / AI Engineering   │
-│  Status     : Open to Junior Developer opportunities   │
-└────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────┐
+│  RAMEZ.DEV                                            │
+├───────────────────────────────────────────────────────┤
+│  Name       : Ramez Ahmad ALMAAYE'H                   │
+│  Role       : Full-Stack Developer                    │
+│  Background : B.Sc. Software Engineering             │
+│  Location   : Amman, Jordan                           │
+│  Focus      : React / ASP.NET Core / Node.js          │
+│  Interest   : Architecture / AI Engineering           │
+│  Status     : Open to Junior Developer roles          │
+└───────────────────────────────────────────────────────┘
 ```
 
-I am a **Software Engineering graduate** who enjoys turning complex requirements into reliable, secure, and user-friendly applications.
+I'm a **Software Engineering graduate** who builds secure, responsive full-stack web applications.
 
-My experience includes **two full-stack development internships**, leading a four-member project team, developing REST APIs, designing responsive interfaces, implementing authentication, and deploying complete web applications.
+My experience includes **two development internships**, leading a four-member team, building REST APIs, implementing authentication, and deploying real software applications.
 
-I care about how software works behind the scenes just as much as how it looks and feels to the user.
+I enjoy turning complex requirements into practical solutions while continuously improving my engineering skills.
 
-### ⚡ My Development Philosophy
+**My development approach:**
 
 `Understand` → `Design` → `Build` → `Test` → `Deploy` → `Improve`
 
@@ -77,7 +57,7 @@ I care about how software works behind the scenes just as much as how it looks a
 
 <div align="center">
 
-### Building applications that solve real problems.
+### Real projects. Real source code. Real demos.
 
 </div>
 
@@ -85,54 +65,40 @@ I care about how software works behind the scenes just as much as how it looks a
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 PLANORA
+<h3>🧩 PLANORA</h3>
 
-**Project Management System**
+<strong>Project Management System</strong>
 
-A full-stack platform supporting Scrum workflows, team collaboration, role-based access, Kanban boards, sprint management, and QA review processes.
+<p>Scrum workflows, sprint backlogs, Kanban boards, role-based access, project tracking, and QA review processes.</p>
 
-**My Role:** Team Leader & Full-Stack Developer
+<p><strong>Role:</strong> Team Leader &amp; Full-Stack Developer</p>
 
-**Stack:** ASP.NET Core MVC, EF Core, SQL Server, Razor, JavaScript, AJAX.
-
-<br/>
+<p><strong>Stack:</strong> ASP.NET Core MVC, EF Core, SQL Server, Razor, JavaScript, AJAX.</p>
 
 <div align="center">
 
-<a href="https://planora.dynv6.net/">
-  <img src="https://skillicons.dev/icons?i=chrome&theme=dark" width="46" height="46" alt="Planora Live Demo"/>
-</a>
-&nbsp;
-<a href="https://github.com/RamezAlmaayah/Planora-Project-Management-System">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="46" height="46" alt="Planora Source Code"/>
-</a>
+<a href="https://planora.dynv6.net/"><img src="assets/icons/web.gif" width="54" height="64" alt="Planora Live Demo" title="Live Demo"/></a>
+<a href="https://github.com/RamezAlmaayah/Planora-Project-Management-System"><img src="assets/icons/github.gif" width="54" height="64" alt="Planora Source Code" title="Source Code"/></a>
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-### 📑 FR COMPARE
+<h3>📑 FR COMPARE</h3>
 
-**Supplier Quotation Management System**
+<strong>Supplier Quotation Management System</strong>
 
-A full-stack procurement platform supporting supplier management, RFQs, quotation comparisons, split-award analysis, weighted evaluations, and purchasing decisions.
+<p>Supplier management, RFQs, quotation comparison, split-award and weighted evaluations, and procurement decision workflows.</p>
 
-**My Role:** Full-Stack Developer
+<p><strong>Role:</strong> Full-Stack Developer</p>
 
-**Stack:** React, Node.js, Express, MongoDB Atlas, JWT, GridFS.
-
-<br/>
+<p><strong>Stack:</strong> React, Node.js, Express, MongoDB Atlas, JWT, GridFS.</p>
 
 <div align="center">
 
-<a href="https://frcompare.netlify.app/">
-  <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="46" height="46" alt="FR Compare Live Demo"/>
-</a>
-&nbsp;
-<a href="https://github.com/RamezAlmaayah/FR-Compare">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="46" height="46" alt="FR Compare Source Code"/>
-</a>
+<a href="https://frcompare.netlify.app/"><img src="assets/icons/web.gif" width="54" height="64" alt="FR Compare Live Demo" title="Live Demo"/></a>
+<a href="https://github.com/RamezAlmaayah/FR-Compare"><img src="assets/icons/github.gif" width="54" height="64" alt="FR Compare Source Code" title="Source Code"/></a>
 
 </div>
 
@@ -142,50 +108,36 @@ A full-stack procurement platform supporting supplier management, RFQs, quotatio
 <tr>
 <td width="50%" valign="top">
 
-### 🧭 UNSEEN JO
+<h3>🧭 UNSEEN JO</h3>
 
-**Tourism Discovery Platform**
+<strong>Tourism Discovery Platform</strong>
 
-A responsive tourism discovery application featuring interactive maps, location-based exploration, and travel preference flows.
+<p>Interactive maps, location-based exploration, and travel-preference discovery flows across Jordan.</p>
 
-**Stack:** React, Tailwind CSS, Supabase, PostgreSQL, React Leaflet, OpenStreetMap.
-
-<br/>
+<p><strong>Stack:</strong> React, Tailwind CSS, Supabase, PostgreSQL, React Leaflet, OpenStreetMap.</p>
 
 <div align="center">
 
-<a href="https://unseenjo.netlify.app/">
-  <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="46" height="46" alt="Unseen Jo Live Demo"/>
-</a>
-&nbsp;
-<a href="https://github.com/RamezAlmaayah/unseen-jo">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="46" height="46" alt="Unseen Jo Source Code"/>
-</a>
+<a href="https://unseenjo.netlify.app/"><img src="assets/icons/web.gif" width="54" height="64" alt="Unseen Jo Live Demo" title="Live Demo"/></a>
+<a href="https://github.com/RamezAlmaayah/unseen-jo"><img src="assets/icons/github.gif" width="54" height="64" alt="Unseen Jo Source Code" title="Source Code"/></a>
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ DEVELOPER PORTFOLIO
+<h3>✨ DEVELOPER PORTFOLIO</h3>
 
-**Interactive Personal Website**
+<strong>Interactive Personal Website</strong>
 
-An editorial-style developer portfolio featuring project case studies, responsive layouts, animations, accessible interactions, and light/dark themes.
+<p>Project case studies, responsive interfaces, accessible navigation, animations, and light/dark themes.</p>
 
-**Stack:** React, TypeScript, Vite, Tailwind CSS.
-
-<br/>
+<p><strong>Stack:</strong> React, TypeScript, Vite, Tailwind CSS.</p>
 
 <div align="center">
 
-<a href="https://ramez-dev-portfolio.netlify.app/">
-  <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="46" height="46" alt="Portfolio Live Demo"/>
-</a>
-&nbsp;
-<a href="https://github.com/RamezAlmaayah/ramez-portfolio">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="46" height="46" alt="Portfolio Source Code"/>
-</a>
+<a href="https://ramez-dev-portfolio.netlify.app/"><img src="assets/icons/web.gif" width="54" height="64" alt="Portfolio Live Demo" title="Live Demo"/></a>
+<a href="https://github.com/RamezAlmaayah/ramez-portfolio"><img src="assets/icons/github.gif" width="54" height="64" alt="Portfolio Source Code" title="Source Code"/></a>
 
 </div>
 
@@ -194,13 +146,11 @@ An editorial-style developer portfolio featuring project case studies, responsiv
 </table>
 
 <details>
-<summary><b>🔎 Explore More Projects & Experiments</b></summary>
-
-<br/>
+<summary><b>🔎 More Projects & Experiments</b></summary>
 
 ### 📚 Moodle Excel Management Dashboard
 
-A full-stack internship prototype for managing Moodle users, courses, enrollments, teachers, and groups through Excel imports.
+An internship prototype for managing Moodle academic records through Excel imports.
 
 **Stack:** PHP, MySQL, PhpSpreadsheet, Moodle.
 
@@ -208,11 +158,9 @@ A full-stack internship prototype for managing Moodle users, courses, enrollment
 
 **Status:** In Development
 
-A climate-informed agricultural decision-support concept exploring explainable crop recommendations.
+A climate-informed agricultural decision-support concept.
 
-<a href="https://ramez-dev-portfolio.netlify.app/projects/caeloterra">
-  <img src="https://skillicons.dev/icons?i=chrome&theme=dark" width="44" height="44" alt="CaeloTerra Case Study"/>
-</a>
+[Explore CaeloTerra](https://ramez-dev-portfolio.netlify.app/projects/caeloterra)
 
 </details>
 
@@ -224,31 +172,46 @@ A climate-informed agricultural decision-support concept exploring explainable c
 
 ### 👨‍💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=cs,js,ts&theme=dark" height="48" alt="C#, JavaScript and TypeScript"/>
+<img src="assets/icons/cs.gif" width="54" height="64" alt="C#" title="C#"/>
+<img src="assets/icons/javascript.gif" width="54" height="64" alt="JavaScript" title="JavaScript"/>
+<img src="assets/icons/typescript.gif" width="54" height="64" alt="TypeScript" title="TypeScript"/>
 
-<br/><br/>
+<br/>
 
 ### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite&theme=dark" height="48" alt="React, HTML5, CSS3, Tailwind CSS, Bootstrap and Vite"/>
+<img src="assets/icons/react.gif" width="54" height="64" alt="React" title="React"/>
+<img src="assets/icons/html.gif" width="54" height="64" alt="HTML5" title="HTML5"/>
+<img src="assets/icons/css.gif" width="54" height="64" alt="CSS3" title="CSS3"/>
+<img src="assets/icons/tailwind.gif" width="54" height="64" alt="Tailwind CSS" title="Tailwind CSS"/>
+<img src="assets/icons/bootstrap.gif" width="54" height="64" alt="Bootstrap" title="Bootstrap"/>
+<img src="assets/icons/vite.gif" width="54" height="64" alt="Vite" title="Vite"/>
 
-<br/><br/>
+<br/>
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&theme=dark" height="48" alt=".NET, Node.js and Express"/>
+<img src="assets/icons/dotnet.gif" width="54" height="64" alt=".NET" title=".NET"/>
+<img src="assets/icons/node.gif" width="54" height="64" alt="Node.js" title="Node.js"/>
+<img src="assets/icons/express.gif" width="54" height="64" alt="Express.js" title="Express.js"/>
 
-<br/><br/>
+<br/>
 
 ### 🗄️ Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark" height="48" alt="PostgreSQL, MySQL, MongoDB and Supabase"/>
+<img src="assets/icons/postgres.gif" width="54" height="64" alt="PostgreSQL" title="PostgreSQL"/>
+<img src="assets/icons/mysql.gif" width="54" height="64" alt="MySQL" title="MySQL"/>
+<img src="assets/icons/mongodb.gif" width="54" height="64" alt="MongoDB" title="MongoDB"/>
+<img src="assets/icons/supabase.gif" width="54" height="64" alt="Supabase" title="Supabase"/>
 
-<br/><br/>
+<br/>
 
 ### 🛠️ Tools & Development
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" height="48" alt="Git, GitHub, Postman and VS Code"/>
+<img src="assets/icons/git.gif" width="54" height="64" alt="Git" title="Git"/>
+<img src="assets/icons/github.gif" width="54" height="64" alt="GitHub" title="GitHub"/>
+<img src="assets/icons/postman.gif" width="54" height="64" alt="Postman" title="Postman"/>
+<img src="assets/icons/vscode.gif" width="54" height="64" alt="VS Code" title="VS Code"/>
 
 </div>
 
@@ -260,24 +223,24 @@ A climate-informed agricultural decision-support concept exploring explainable c
 <tr>
 <td width="50%" valign="top">
 
-### 💼 DOT Jordan
+<h3>💼 DOT Jordan</h3>
 
-**Full-Stack Development Intern**
+<strong>Full-Stack Development Intern</strong>
 
-July 2026 – September 2026
+<p>Jul–Sep 2026</p>
 
-Developed FR Compare's procurement workflows using React, Node.js, Express, MongoDB, REST APIs, and JWT authentication.
+<p>Developed FR Compare procurement workflows with React, Node.js, Express, MongoDB, REST APIs, and JWT authentication.</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 The Hope International
+<h3>💼 The Hope International</h3>
 
-**Full-Stack Development Intern**
+<strong>Full-Stack Development Intern</strong>
 
-July 2026 – September 2026
+<p>Jul–Sep 2026</p>
 
-Developed a Moodle Excel Management Dashboard prototype using PHP, MySQL, and PhpSpreadsheet for bulk academic data management.
+<p>Developed a Moodle Excel Management Dashboard prototype using PHP, MySQL, and PhpSpreadsheet.</p>
 
 </td>
 </tr>
@@ -301,11 +264,9 @@ Middle East University, Jordan · 2022–2026
 
 <div align="center">
 
-<a href="https://github.com/RamezAlmaayah?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="Explore GitHub Repositories"/>
-</a>
+<a href="https://github.com/RamezAlmaayah?tab=repositories"><img src="assets/icons/github.gif" width="54" height="64" alt="Explore Repositories" title="Explore Repositories"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamezAlmaayah&bg_color=0B1220&color=8FA9CE&line=14B8A6&point=60A5FA&area=true&hide_border=true&radius=10" width="98%" alt="GitHub Contribution Activity"/>
 
@@ -318,8 +279,6 @@ Middle East University, Jordan · 2022–2026
 ---
 
 ## 06 / LET'S BUILD SOMETHING
-
-<div align="center">
 
 ```javascript
 const developer = {
@@ -334,25 +293,17 @@ const developer = {
 const nextStep = "Build something meaningful";
 ```
 
-### Have an idea, a project, or an opportunity?
+<div align="center">
 
-<a href="mailto:ramezmayaa@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Email Me"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ramez-al-maayah-b076ba425/">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://ramez-dev-portfolio.netlify.app/">
-  <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48" height="48" alt="My Portfolio"/>
-</a>
-&nbsp;
-<a href="https://github.com/RamezAlmaayah">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub Profile"/>
-</a>
+### Have a project, idea, or opportunity?
 
-<br/><br/>
+<a href="https://ramez-dev-portfolio.netlify.app/"><img src="assets/icons/netlify.gif" width="54" height="64" alt="Portfolio" title="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/ramez-al-maayah-b076ba425/"><img src="assets/icons/linkedin.gif" width="54" height="64" alt="LinkedIn" title="LinkedIn"/></a>
+<a href="https://github.com/RamezAlmaayah"><img src="assets/icons/github.gif" width="54" height="64" alt="GitHub" title="GitHub"/></a>
+<a href="mailto:ramezmayaa@gmail.com"><img src="assets/icons/email.gif" width="54" height="64" alt="Email" title="Email"/></a>
+<a href="https://ramez-dev-portfolio.netlify.app/ramez-ahmad-resume.pdf"><img src="assets/icons/resume.gif" width="54" height="64" alt="Resume PDF" title="Resume PDF"/></a>
+
+<br/>
 
 **Think clearly. Build carefully. Ship confidently.**
 
