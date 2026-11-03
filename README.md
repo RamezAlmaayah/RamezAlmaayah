@@ -209,34 +209,107 @@ My experience includes **two development internships**, leading a four-member te
 
 ---
 
-## 06 / LET'S BUILD SOMETHING
 
-```javascript
-const developer = {
-  name: "Ramez Ahmad ALMAAYE'H",
-  role: "Full-Stack Developer",
-  location: "Amman, Jordan",
-  focus: ["Software Engineering", "Web Applications"],
-  mindset: "Learn. Build. Improve."
-};
-```
+<h2>06 / ACHIEVEMENTS UNLOCKED 🏆</h2>
 
 <div align="center">
 
-**Have a project, idea or opportunity?**
+<h3>🎮 RAMEZ.DEV — Developer Milestones</h3>
+
+<p>
+  <em>Every project completed. Every challenge overcome.
+  Every new skill learned.</em>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1200&color=14B8A6&center=true&vCenter=true&width=600&height=45&lines=Achievement+Unlocked%3A+Software+Engineer.;Achievement+Unlocked%3A+Full-Stack+Developer.;Achievement+Unlocked%3A+Team+Leader.;Next+Level%3A+AI+Engineering." alt="Animated developer achievements"/>
 
 <br/>
 
-<a href="https://ramez-dev-portfolio.netlify.app/"><img src="assets/netlify.svg" width="64" height="78" alt="Portfolio" title="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/ramez-al-maayah-b076ba425/"><img src="assets/linkedin.svg" width="64" height="78" alt="LinkedIn" title="LinkedIn"/></a>
-<a href="https://github.com/RamezAlmaayah"><img src="assets/github.svg" width="64" height="78" alt="GitHub" title="GitHub"/></a>
-<a href="mailto:ramezmayaa@gmail.com"><img src="assets/email.svg" width="64" height="78" alt="Email" title="Email"/></a>
-<a href="https://ramez-dev-portfolio.netlify.app/ramez-ahmad-resume.pdf"><img src="assets/resume.svg" width="64" height="78" alt="Resume PDF" title="Resume PDF"/></a>
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<h3>🎓 DEGREE EARNED</h3>
+
+<strong>B.Sc. Software Engineering</strong>
+
+Middle East University
+
+<sub>Class of 2026</sub>
 
 <br/><br/>
 
-**Think clearly. Build carefully. Ship confidently.**
+<img src="https://img.shields.io/badge/UNLOCKED-2026-14B8A6?style=flat-square" alt="Degree earned in 2026"/>
 
-<sub>Designed &amp; maintained by Ramez Ahmad ALMAAYE'H</sub>
+</td>
+<td width="50%" align="center" valign="top">
+
+<h3>💼 INDUSTRY EXPERIENCE</h3>
+
+<strong>Two Development Internships</strong>
+
+DOT Jordan
+
+The Hope International
+
+<br/>
+
+<img src="https://img.shields.io/badge/UNLOCKED-2026-14B8A6?style=flat-square" alt="Internships completed"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
+
+<h3>👥 TEAM LEADER</h3>
+
+<strong>Planora</strong>
+
+Led a four-member software team.
+
+Requirements, implementation, and collaboration.
+
+<br/>
+
+<img src="https://img.shields.io/badge/UNLOCKED-TEAMWORK-14B8A6?style=flat-square" alt="Team leadership milestone"/>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<h3>🚀 FULL-STACK SHIPPED</h3>
+
+<strong>Real Applications Deployed</strong>
+
+Planora • FR Compare • Unseen Jo
+
+Frontend, Backend, Database & Deployment.
+
+<br/>
+
+<img src="https://img.shields.io/badge/UNLOCKED-PRODUCTION-14B8A6?style=flat-square" alt="Full-stack deployment milestone"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h3>🔓 NEXT ACHIEVEMENT</h3>
+
+<p>
+  <strong>AI Engineering</strong><br/>
+  <sub>Training in Progress — Apex Company</sub>
+</p>
+
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-A78BFA?style=for-the-badge&logo=googlegemini&logoColor=white" alt="AI Engineering training in progress"/>
+
+<br/><br/>
+
+<strong>Every milestone is a checkpoint. The next challenge is already waiting.</strong>
+
+<br/>
+
+<sub>Think clearly. Build carefully. Ship confidently.</sub>
 
 </div>
