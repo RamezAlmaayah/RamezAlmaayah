@@ -1,290 +1,325 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1100&color=58A6FF&center=true&vCenter=true&width=600&height=65&lines=Hi%2C+I'm+Ramez+Ahmad;Full-Stack+Developer;Software+Engineer;Turning+Ideas+Into+Real+Solutions)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:07111F,45:17365D,100:14B8A6&text=RAMEZ%20AHMAD&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=17&descAlignY=59&animation=fadeIn" width="100%" alt="Ramez Ahmad — Full-Stack Developer"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-# 👋 Hi, I'm Ramez Ahmad ALMAAYE'H
-
-### 💻 Full-Stack Developer | Software Engineer
-
-Building secure, responsive, and user-friendly web applications.
-
-📍 Madaba, Jordan 🇯🇴
-
-<a href="https://ramez-dev-portfolio.netlify.app">
-  <img src="https://skillicons.dev/icons?i=netlify&theme=dark" height="45" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/ramez-al-maayah-b076ba425/">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45" alt="LinkedIn"/>
-</a>
-<a href="mailto:ramezmayaa@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45" alt="Email"/>
-</a>
-
-</div>
-
----
-
-# 💫 About Me
-
-🔭 I'm currently working on **modern full-stack applications using React, TypeScript, ASP.NET Core, and PostgreSQL.**
-
-👯 I'm looking to collaborate on **open-source projects, full-stack development, and innovative software solutions.**
-
-🤝 I'm looking to improve my skills in **software architecture, cloud deployment, DevOps, and AI-powered applications.**
-
-🌱 I'm currently learning **advanced React, TypeScript, ASP.NET Core, Docker, and CI/CD.**
-
-💬 Ask me about **React.js, C#, ASP.NET Core, REST APIs, SQL databases, authentication, and Agile/Scrum.**
-
-⚡ Fun fact: **I enjoy transforming complex requirements into clean, user-friendly applications — from planning and UI/UX design to full-stack implementation.**
-
-🎓 **B.Sc. in Software Engineering — Middle East University (2026).**
-
----
-
-# 🌐 Socials
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ramez-al-maayah-b076ba425/">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/RamezAlmaayah">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://ramez-dev-portfolio.netlify.app">
-  <img src="https://skillicons.dev/icons?i=netlify&theme=dark" height="45" alt="Portfolio"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:ramezmayaa@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45" alt="Email"/>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=14B8A6&center=true&vCenter=true&width=720&height=55&lines=Turning+ideas+into+real+software.;Building+from+frontend+to+backend.;Clean+code.+Thoughtful+design.;Design.+Develop.+Test.+Deploy." alt="Animated introduction"/>
 </a>
 
 <br/>
 
-**LinkedIn · GitHub · Portfolio · Email**
+<a href="https://ramez-dev-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-0B1728?style=for-the-badge&logo=netlify&logoColor=14B8A6" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/ramez-al-maayah-b076ba425/">
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0B1728?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn"/>
+</a>
+<a href="https://ramez-dev-portfolio.netlify.app/ramez-ahmad-resume.pdf">
+  <img src="https://img.shields.io/badge/VIEW_MY_RESUME-0B1728?style=for-the-badge&logo=readme&logoColor=A78BFA" alt="Resume"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LOCATION-MADABA%2C%20JORDAN-14233C?style=flat-square&logo=googlemaps&logoColor=14B8A6"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-14233C?style=flat-square&logo=github&logoColor=14B8A6"/>
 
 </div>
 
 ---
 
-# 💻 Tech Stack
+## 01 / THE DEVELOPER BEHIND THE CODE
+
+```text
+┌────────────────────────────────────────────────────────┐
+│  RAMEZ.DEV                                             │
+├────────────────────────────────────────────────────────┤
+│  Name       : Ramez Ahmad ALMAAYE'H                    │
+│  Role       : Full-Stack Developer                     │
+│  Background : B.Sc. Software Engineering              │
+│  Location   : Madaba, Jordan                           │
+│  Focus      : React / ASP.NET Core / Node.js           │
+│  Interest   : Software Architecture / AI Engineering   │
+│  Status     : Open to Junior Developer opportunities   │
+└────────────────────────────────────────────────────────┘
+```
+
+I am a **Software Engineering graduate** who enjoys turning complex requirements into reliable, user-friendly applications.
+
+My experience includes **two full-stack development internships**, leading a software project team, developing REST APIs, designing responsive interfaces, implementing authentication, and deploying complete web applications.
+
+I care about how software works behind the scenes just as much as how it looks and feels to the user.
+
+**My development approach:**
+
+`Understand` → `Design` → `Build` → `Test` → `Deploy` → `Improve`
+
+> Great software is not just about writing code. It is about solving the right problem with a solution people can actually use.
+
+---
+
+## 02 / FEATURED ENGINEERING PROJECTS
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=cs,js,ts,python,php&theme=dark" alt="C#, JavaScript, TypeScript, Python, PHP" />
-
-**C# · JavaScript · TypeScript · Python · PHP · SQL**
-
----
-
-### 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite&theme=dark" alt="React, HTML5, CSS3, Tailwind CSS, Bootstrap, Vite" />
-
-**React.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Vite**
-
----
-
-### ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs&theme=dark" alt=".NET and Node.js" />
-
-**ASP.NET Core MVC · ASP.NET Core Web API · Node.js**
-
-**Entity Framework Core · LINQ · REST APIs · JWT Authentication**
-
----
-
-### 🗄️ Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Supabase" />
-
-**SQL Server · PostgreSQL · MySQL · MongoDB · Supabase**
-
----
-
-### 🛠️ Tools & DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,vscode,figma&theme=dark" alt="Git, GitHub, Docker, GitHub Actions, Postman, VS Code, Figma" />
-
-**Git · GitHub · Docker · GitHub Actions · Postman · VS Code · Figma**
-
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
+### Building applications that solve real problems.
 
 </div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-# 🚀 Featured Projects
+### 🧩 PLANORA
+**Project Management System**
 
-<div align="center">
+A full-stack project management platform designed around Scrum workflows, team collaboration, role-based access, Kanban boards, sprint management, and QA review processes.
 
-<a href="https://planora.dynv6.net/">
-  <img src="https://img.icons8.com/color/48/task.png" height="45" alt="Planora"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://ramez-dev-portfolio.netlify.app/projects/unseen-jo">
-  <img src="https://img.icons8.com/color/48/worldwide-location.png" height="45" alt="Unseen Jo"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://ramez-dev-portfolio.netlify.app/projects/caeloterra">
-  <img src="https://img.icons8.com/color/48/sprout.png" height="45" alt="CaeloTerra"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://ramez-dev-portfolio.netlify.app">
-  <img src="https://img.icons8.com/color/48/source-code.png" height="45" alt="Portfolio"/>
-</a>
+**My Role:** Team Leader & Full-Stack Developer
+
+**Stack:** ASP.NET Core MVC, EF Core, SQL Server, Razor, JavaScript, AJAX.
 
 <br/>
 
-**Planora · Unseen Jo · CaeloTerra · Portfolio**
-
-</div>
-
----
-
-### 🗂️ Planora — Project Management System
-
-A project management platform supporting Scrum workflows, Sprint Backlogs, Kanban boards, role-based authorization, task management, and QA Pass/Fail reviews.
-
-**Role:** Team Leader · Full-Stack Development · Requirements Analysis · UI/UX Design
-
-**Technologies:** C#, ASP.NET Core MVC, EF Core, SQL Server, Razor, JavaScript, AJAX.
-
-<div align="center">
-
 <a href="https://planora.dynv6.net/">
-  <img src="https://img.icons8.com/color/48/domain.png" height="40" alt="Planora Live Demo"/>
+  <img src="https://img.shields.io/badge/LIVE_DEMO-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/RamezAlmaayah/Planora-Project-Management-System">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="Planora Source Code"/>
+  <img src="https://img.shields.io/badge/SOURCE_CODE-172B4D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📑 FR COMPARE
+**Supplier Quotation Management System**
+
+A full-stack procurement platform that supports supplier management, RFQs, quotation comparison, split-award analysis, weighted evaluation, and purchasing decisions.
+
+**My Role:** Full-Stack Developer
+
+**Stack:** React, Node.js, Express, MongoDB Atlas, JWT, GridFS.
 
 <br/>
 
-**Live Demo · Source Code**
-
-</div>
-
----
-
-### 🧭 Unseen Jo — Tourism Discovery Platform
-
-A responsive tourism discovery application featuring the **Surprise Me** recommendation experience, interactive maps, and location-based exploration.
-
-**Technologies:** React, JavaScript, Tailwind CSS, Supabase, PostgreSQL, React Leaflet, OpenStreetMap, Vite.
-
-<div align="center">
-
-<a href="https://ramez-dev-portfolio.netlify.app/projects/unseen-jo">
-  <img src="https://img.icons8.com/color/48/domain.png" height="40" alt="Unseen Jo Case Study"/>
+<a href="https://frcompare.netlify.app/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+<a href="https://github.com/RamezAlmaayah/FR-Compare">
+  <img src="https://img.shields.io/badge/SOURCE_CODE-172B4D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 UNSEEN JO
+**Tourism Discovery Platform**
+
+A responsive tourism platform for discovering destinations across Jordan through interactive maps, location-based exploration, and travel preference flows.
+
+**Stack:** React, Tailwind CSS, Supabase, PostgreSQL, React Leaflet, OpenStreetMap.
 
 <br/>
 
-**View Case Study**
-
-</div>
-
----
-
-### 🌱 CaeloTerra — Climate-Smart Agriculture
-
-**Status: In Development**
-
-A climate-informed crop rotation decision-support project designed to use NASA POWER and GPM IMERG data for explainable agricultural recommendations.
-
-**Technologies:** React, ASP.NET Core Web API, Python, SQL, REST APIs.
-
-<div align="center">
-
-<a href="https://ramez-dev-portfolio.netlify.app/projects/caeloterra">
-  <img src="https://img.icons8.com/color/48/domain.png" height="40" alt="CaeloTerra Case Study"/>
+<a href="https://unseenjo.netlify.app/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+<a href="https://github.com/RamezAlmaayah/unseen-jo">
+  <img src="https://img.shields.io/badge/SOURCE_CODE-172B4D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ DEVELOPER PORTFOLIO
+**Interactive Personal Website**
+
+An editorial-style portfolio featuring project case studies, responsive layouts, animations, accessible interactions, and light/dark themes.
+
+**Stack:** React, TypeScript, Vite, Tailwind CSS.
 
 <br/>
 
-**View Case Study**
-
-</div>
-
----
-
-### 💼 Personal Developer Portfolio
-
-My responsive personal portfolio featuring interactive project galleries, real application screenshots, animations, and dark/light themes.
-
-**Technologies:** React, TypeScript, Tailwind CSS, Vite.
-
-<div align="center">
-
-<a href="https://ramez-dev-portfolio.netlify.app">
-  <img src="https://img.icons8.com/color/48/domain.png" height="40" alt="Live Portfolio"/>
+<a href="https://ramez-dev-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/RamezAlmaayah/ramez-portfolio">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="Portfolio Source Code"/>
+  <img src="https://img.shields.io/badge/SOURCE_CODE-172B4D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔎 Explore more projects and experiments</b></summary>
 
 <br/>
 
-**Live Portfolio · Source Code**
+**Moodle Excel Management Dashboard**
+
+A full-stack internship prototype for managing Moodle users, courses, enrollments, teachers, and groups through Excel imports using PHP, MySQL, and PhpSpreadsheet.
+
+**CaeloTerra — Climate-Smart Agriculture**
+
+An in-development decision-support concept exploring climate-informed agricultural recommendations.
+
+[Explore CaeloTerra](https://ramez-dev-portfolio.netlify.app/projects/caeloterra)
+
+</details>
+
+---
+
+## 03 / MY TECHNICAL TOOLKIT
+
+<div align="center">
+
+### PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=cs,js,ts&theme=dark" alt="C#, JavaScript, TypeScript"/>
+
+`C#` `JavaScript` `TypeScript` `SQL`
+
+### FRONTEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite&theme=dark" alt="Frontend technologies"/>
+
+`React.js` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Vite` `Razor` `AJAX`
+
+### BACKEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&theme=dark" alt="Backend technologies"/>
+
+`ASP.NET Core MVC` `ASP.NET Core Web API` `Node.js` `Express.js`
+
+`Entity Framework Core` `LINQ` `REST APIs` `JWT`
+
+### DATABASES
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark" alt="Databases"/>
+
+`SQL Server` `PostgreSQL` `MySQL` `MongoDB` `Supabase`
+
+### ENGINEERING TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Engineering tools"/>
+
+`Git` `GitHub` `Postman` `VS Code`
+
+`OOP` `SOLID` `Clean Architecture` `RBAC` `Agile / Scrum`
+
+`Unit Testing` `Integration Testing` `API Testing`
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## 04 / EXPERIENCE & EDUCATION
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 DOT Jordan
+
+**Full-Stack Development Intern**
+
+July 2026 – September 2026
+
+Worked on FR Compare, developing supplier quotation and procurement workflows with React, Node.js, Express, MongoDB, REST APIs, and JWT authentication.
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 The Hope International
+
+**Full-Stack Development Intern**
+
+July 2026 – September 2026
+
+Developed a Moodle Excel Management Dashboard prototype with PHP, MySQL, and PhpSpreadsheet to support bulk academic data management.
+
+</td>
+</tr>
+</table>
+
+### 🎓 Education
+
+**Bachelor of Science in Software Engineering**
+
+Middle East University, Jordan · 2022–2026
+
+### 📚 Continuous Learning
+
+- **AI Engineering Training Program** — Apex Company *(In Progress)*
+- **ASP.NET & Oracle APEX Training** — The Hope International
+- **English for IT 1** — Cisco Networking Academy
+
+---
+
+## 05 / ENGINEERING ACTIVITY
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=RamezAlmaayah&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+<a href="https://github.com/RamezAlmaayah?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-172B4D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=RamezAlmaayah&theme=tokyonight&hide_border=false)
+<br/><br/>
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=RamezAlmaayah&theme=tokyonight&hide_border=false&layout=compact)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RamezAlmaayah&bg_color=0B1220&color=8FA9CE&line=14B8A6&point=60A5FA&area=true&hide_border=true&radius=10" width="98%" alt="GitHub contribution activity"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RamezAlmaayah&theme=tokyonight&hide_border=true&background=0B1220" height="165" alt="GitHub streak"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=RamezAlmaayah&style=for-the-badge&color=0E7490&label=PROFILE+VISITS" alt="Profile views"/>
 
 </div>
 
 ---
 
+## 06 / LET'S BUILD SOMETHING
+
 <div align="center">
 
-### 👀 Profile Views
+```javascript
+const developer = {
+  name: "Ramez Ahmad ALMAAYE'H",
+  role: "Full-Stack Developer",
+  focus: ["Software Engineering", "Web Applications"],
+  mindset: "Learn. Build. Improve.",
+  availableFor: ["Junior Roles", "Collaboration"]
+};
 
-![Profile Views](https://komarev.com/ghpvc/?username=RamezAlmaayah&color=blue)
+if (opportunity.isInteresting) {
+  developer.connect();
+}
+```
 
-### 🌐 Let's Connect
+### Have an idea, a project, or an opportunity?
 
-<a href="https://ramez-dev-portfolio.netlify.app">
-  <img src="https://skillicons.dev/icons?i=netlify&theme=dark" height="45" alt="Portfolio"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ramez-al-maayah-b076ba425/">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/RamezAlmaayah">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
 <a href="mailto:ramezmayaa@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45" alt="Email"/>
+  <img src="https://img.shields.io/badge/LET'S_TALK-14B8A6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ramez-al-maayah-b076ba425/">
+  <img src="https://img.shields.io/badge/LINKEDIN-172B4D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://ramez-dev-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/MY_PORTFOLIO-172B4D?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
-<br/>
+<br/><br/>
 
-**Portfolio · LinkedIn · GitHub · Email**
+**Think clearly. Build carefully. Ship confidently.**
+
+<sub>Designed & maintained by Ramez Ahmad ALMAAYE'H</sub>
 
 </div>
