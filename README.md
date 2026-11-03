@@ -25,55 +25,53 @@
 
 <table>
 <tr>
-<td width="50%" valign="middle">
-
-<pre>
-RAMEZ.DEV
-──────────────────────────────────
-Name       : Ramez Ahmad ALMAAYE'H
-Role       : Full-Stack Developer
-Background : B.Sc. Software Engineering
-Location   : Amman, Jordan
-Focus      : React / ASP.NET Core / Node.js
-Interest   : Architecture / AI Engineering
-</pre>
-
+<td colspan="2">
+  <strong>💻 RAMEZ.DEV</strong>
 </td>
+</tr>
 
-<td width="50%" valign="middle" align="center">
+<tr>
+<td><code>Name :</code></td>
+<td>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1100&color=14B8A6&vCenter=true&width=310&height=25&repeat=true&lines=Ramez+Ahmad+ALMAAYE%27H" alt="Ramez Ahmad ALMAAYE'H"/>
+</td>
+</tr>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2400&pause=1200&color=14B8A6&center=true&vCenter=true&width=410&height=100&lines=Turning+ideas+into+real+software.;Building+secure+full-stack+applications.;Clean+code.+Thoughtful+design.;Learning+AI+Engineering.;Ready+for+the+next+challenge."
-  alt="Animated typing text"
-/>
+<tr>
+<td><code>Role :</code></td>
+<td>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1100&color=14B8A6&vCenter=true&width=310&height=25&repeat=true&lines=Full-Stack+Developer" alt="Full-Stack Developer"/>
+</td>
+</tr>
 
+<tr>
+<td><code>Background :</code></td>
+<td>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1100&color=14B8A6&vCenter=true&width=310&height=25&repeat=true&lines=B.Sc.+Software+Engineering" alt="B.Sc. Software Engineering"/>
+</td>
+</tr>
+
+<tr>
+<td><code>Location :</code></td>
+<td>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1100&color=14B8A6&vCenter=true&width=310&height=25&repeat=true&lines=Amman%2C+Jordan" alt="Amman, Jordan"/>
+</td>
+</tr>
+
+<tr>
+<td><code>Focus :</code></td>
+<td>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1100&color=14B8A6&vCenter=true&width=310&height=25&repeat=true&lines=React+%2F+ASP.NET+Core+%2F+Node.js" alt="React, ASP.NET Core, Node.js"/>
+</td>
+</tr>
+
+<tr>
+<td><code>Interest :</code></td>
+<td>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1100&color=14B8A6&vCenter=true&width=310&height=25&repeat=true&lines=Architecture+%2F+AI+Engineering" alt="Architecture / AI Engineering"/>
 </td>
 </tr>
 </table>
-
-<p>
-I'm a <strong>Software Engineering graduate</strong> passionate
-about building secure, scalable, and user-friendly web applications.
-</p>
-
-<p>
-My experience includes <strong>two full-stack development internships</strong>,
-leading a four-member project team, developing REST APIs,
-implementing authentication, and deploying complete applications.
-</p>
-
-<p>
-<strong>My development approach:</strong>
-</p>
-
-<p align="center">
-Understand → Design → Build → Test → Deploy → Improve
-</p>
-
-<blockquote>
-Great software is not just about writing code.
-It's about solving the right problem with a solution people can actually use.
-</blockquote>
 
 
 ---
