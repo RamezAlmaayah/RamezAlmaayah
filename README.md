@@ -21,57 +21,192 @@
 ---
 
 
-<h2>01 / THE DEVELOPER BEHIND THE CODE</h2>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="720" height="326"
+     viewBox="0 0 720 326">
 
-<table>
-<tr>
-<td colspan="2">
-  <strong>💻 RAMEZ.DEV</strong>
-</td>
-</tr>
+  <style>
+    .label {
+      fill: #94A3B8;
+      font: 15px monospace;
+    }
 
-<tr>
-<td><code>Name :</code></td>
-<td>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1100&color=14B8A6&vCenter=true&width=310&height=25&repeat=true&lines=Ramez+Ahmad+ALMAAYE%27H" alt="Ramez Ahmad ALMAAYE'H"/>
-</td>
-</tr>
+    .value {
+      fill: #2DD4BF;
+      font: 15px monospace;
+    }
 
-<tr>
-<td><code>Role :</code></td>
-<td>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1100&color=14B8A6&vCenter=true&width=310&height=25&repeat=true&lines=Full-Stack+Developer" alt="Full-Stack Developer"/>
-</td>
-</tr>
+    .heading {
+      fill: #E2E8F0;
+      font: bold 15px monospace;
+    }
 
-<tr>
-<td><code>Background :</code></td>
-<td>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1100&color=14B8A6&vCenter=true&width=310&height=25&repeat=true&lines=B.Sc.+Software+Engineering" alt="B.Sc. Software Engineering"/>
-</td>
-</tr>
+    .sub {
+      fill: #64748B;
+      font: 12px monospace;
+    }
 
-<tr>
-<td><code>Location :</code></td>
-<td>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1100&color=14B8A6&vCenter=true&width=310&height=25&repeat=true&lines=Amman%2C+Jordan" alt="Amman, Jordan"/>
-</td>
-</tr>
+    .cursor {
+      animation: blink 1s steps(1) infinite;
+    }
 
-<tr>
-<td><code>Focus :</code></td>
-<td>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1100&color=14B8A6&vCenter=true&width=310&height=25&repeat=true&lines=React+%2F+ASP.NET+Core+%2F+Node.js" alt="React, ASP.NET Core, Node.js"/>
-</td>
-</tr>
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
 
-<tr>
-<td><code>Interest :</code></td>
-<td>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1100&color=14B8A6&vCenter=true&width=310&height=25&repeat=true&lines=Architecture+%2F+AI+Engineering" alt="Architecture / AI Engineering"/>
-</td>
-</tr>
-</table>
+    @media (prefers-reduced-motion: reduce) {
+      .cursor { animation: none; }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="720" height="326"
+        rx="14" fill="#0B1220"/>
+
+  <rect x="1" y="1" width="718" height="324"
+        rx="13" fill="none"
+        stroke="#263550" stroke-width="2"/>
+
+  <!-- Terminal Header -->
+  <rect x="1" y="1" width="718" height="48"
+        rx="13" fill="#152238"/>
+
+  <rect x="1" y="34" width="718" height="15"
+        fill="#152238"/>
+
+  <circle cx="24" cy="24" r="6" fill="#FF5F56"/>
+  <circle cx="45" cy="24" r="6" fill="#FFBD2E"/>
+  <circle cx="66" cy="24" r="6" fill="#27C93F"/>
+
+  <text x="90" y="29" class="heading">
+    ramez@github: ~/developer-profile
+  </text>
+
+  <text x="25" y="78" class="sub">
+    $ whoami --details
+  </text>
+
+  <!-- Fixed Labels -->
+  <text x="38" y="114" class="label">Name</text>
+  <text x="38" y="149" class="label">Role</text>
+  <text x="38" y="184" class="label">Background</text>
+  <text x="38" y="219" class="label">Location</text>
+  <text x="38" y="254" class="label">Focus</text>
+  <text x="38" y="289" class="label">Interest</text>
+
+  <!-- Colons -->
+  <g fill="#64748B" font-family="monospace"
+     font-size="15">
+    <text x="154" y="114">:</text>
+    <text x="154" y="149">:</text>
+    <text x="154" y="184">:</text>
+    <text x="154" y="219">:</text>
+    <text x="154" y="254">:</text>
+    <text x="154" y="289">:</text>
+  </g>
+
+  <!-- Typing Masks -->
+  <defs>
+    <clipPath id="line1">
+      <rect x="177" y="96" height="22">
+        <animate attributeName="width"
+          values="0;345;345;0"
+          keyTimes="0;0.42;0.82;1"
+          dur="8s" begin="0s"
+          repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="line2">
+      <rect x="177" y="131" height="22">
+        <animate attributeName="width"
+          values="0;345;345;0"
+          keyTimes="0;0.42;0.82;1"
+          dur="8s" begin="-1.3s"
+          repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="line3">
+      <rect x="177" y="166" height="22">
+        <animate attributeName="width"
+          values="0;345;345;0"
+          keyTimes="0;0.42;0.82;1"
+          dur="8s" begin="-2.6s"
+          repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="line4">
+      <rect x="177" y="201" height="22">
+        <animate attributeName="width"
+          values="0;345;345;0"
+          keyTimes="0;0.42;0.82;1"
+          dur="8s" begin="-3.9s"
+          repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="line5">
+      <rect x="177" y="236" height="22">
+        <animate attributeName="width"
+          values="0;345;345;0"
+          keyTimes="0;0.42;0.82;1"
+          dur="8s" begin="-5.2s"
+          repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="line6">
+      <rect x="177" y="271" height="22">
+        <animate attributeName="width"
+          values="0;345;345;0"
+          keyTimes="0;0.42;0.82;1"
+          dur="8s" begin="-6.5s"
+          repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- Animated Values -->
+  <g clip-path="url(#line1)">
+    <text x="177" y="114" class="value">
+      Ramez Ahmad ALMAAYE'H
+    </text>
+  </g>
+
+  <g clip-path="url(#line2)">
+    <text x="177" y="149" class="value">
+      Full-Stack Developer
+    </text>
+  </g>
+
+  <g clip-path="url(#line3)">
+    <text x="177" y="184" class="value">
+      B.Sc. Software Engineering
+    </text>
+  </g>
+
+  <g clip-path="url(#line4)">
+    <text x="177" y="219" class="value">
+      Amman, Jordan
+    </text>
+  </g>
+
+  <g clip-path="url(#line5)">
+    <text x="177" y="254" class="value">
+      React / ASP.NET Core / Node.js
+    </text>
+  </g>
+
+  <g clip-path="url(#line6)">
+    <text x="177" y="289" class="value">
+      Architecture / AI Engineering
+    </text>
+  </g>
+
+</svg>
+
 
 
 ---
